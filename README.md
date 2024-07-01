@@ -3,8 +3,8 @@
 The first instalment in the Outer Planets eXpansion project, JoolPlus is a mod intending to expand the experience offered at the famous jovian planet of Jool. The mod offers a brand new texture for Jool itself, rescaled lunar orbits, and three brand new orbiting bodies each with full biome support. 
 
 Dependencies:
-- Kopernicus (obviously)
-  - VertexMitchellNetravaliHeightMap bundled
+- [Kopernicus](https://forum.kerbalspaceprogram.com/topic/200143-112x-kopernicus-stable-branch-last-updated-june-17th-2024/#comment-3921588)
+  - [VertexMitchellNetravaliHeightMap](https://forum.kerbalspaceprogram.com/topic/207768-112-niakos-kopernicus-utilities-smoother-heightmaps/)
 - ModuleManager
 Recommended:
 - Outer Planets Mod - adds things beyond Jool to visit, also required for OPX-JoolPlus's sister mods
