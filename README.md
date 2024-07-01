@@ -5,10 +5,11 @@ The first instalment in the Outer Planets eXpansion project, JoolPlus is a mod i
 Dependencies:
 - [Kopernicus](https://forum.kerbalspaceprogram.com/topic/200143-112x-kopernicus-stable-branch-last-updated-june-17th-2024/#comment-3921588)
   - [VertexMitchellNetravaliHeightMap](https://forum.kerbalspaceprogram.com/topic/207768-112-niakos-kopernicus-utilities-smoother-heightmaps/)
-- ModuleManager
+- ModuleManager (obviously)
 Recommended:
-- Outer Planets Mod - adds things beyond Jool to visit, also required for OPX-JoolPlus's sister mods
-- Janet's Minor Planets - made by my friend and recurring collaborator, Interplanet Janet, and adds (among other things) two Joolian trojans which fit into the artistic style of this mod very well.
+- [Outer Planets Mod](https://forum.kerbalspaceprogram.com/topic/184789-131-112x-outer-planets-mod-v2210-3rd-jan-2022/) - adds things beyond Jool to visit, also required for OPX-JoolPlus's sister mods
+- [Janet's Minor Planets](https://forum.kerbalspaceprogram.com/topic/203903-112-kopernicus-janets-minor-planets-134/) - made by my friend and recurring collaborator, Interplanet Janet, and adds (among other things) two Joolian trojans which fit into the artistic style of this mod very well.
+- [Cloverdove's JoolRevamp](https://spacedock.info/mod/2823/Jool%20Retexture)
 Compatible:
 - Distant Object Enhancement - full compatibility supported, with colors coded in for each new object.
 - More to come...
