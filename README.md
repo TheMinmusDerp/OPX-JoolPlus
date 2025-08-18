@@ -8,8 +8,8 @@ Dependencies:
 - ModuleManager (obviously)
 
 Recommended:
-- [Outer Planets Mod](https://forum.kerbalspaceprogram.com/topic/184789-131-112x-outer-planets-mod-v2210-3rd-jan-2022/) - adds things beyond Jool to visit, also required for OPX-JoolPlus's sister mods
-- [Cloverdove's JoolRevamp](https://spacedock.info/mod/2823/Jool%20Retexture)
+- The other OPX mods, of course
+- [Cloverdove's JoolRevamp](https://spacedock.info/mod/2823/Jool%20Retexture) adds an inner moon and an optional texture change if you want it more jupiter-y
 
 Compatible:
 - Distant Object Enhancement - full compatibility supported, with colors coded in for each new object.
