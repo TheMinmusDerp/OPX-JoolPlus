@@ -6,9 +6,11 @@ Dependencies:
 - [Kopernicus](https://forum.kerbalspaceprogram.com/topic/200143-112x-kopernicus-stable-branch-last-updated-june-17th-2024/#comment-3921588)
   - [VertexMitchellNetravaliHeightMap](https://forum.kerbalspaceprogram.com/topic/207768-112-niakos-kopernicus-utilities-smoother-heightmaps/)
 - ModuleManager (obviously)
+
 Recommended:
 - [Outer Planets Mod](https://forum.kerbalspaceprogram.com/topic/184789-131-112x-outer-planets-mod-v2210-3rd-jan-2022/) - adds things beyond Jool to visit, also required for OPX-JoolPlus's sister mods
 - [Cloverdove's JoolRevamp](https://spacedock.info/mod/2823/Jool%20Retexture)
+
 Compatible:
 - Distant Object Enhancement - full compatibility supported, with colors coded in for each new object.
 - More to come...
