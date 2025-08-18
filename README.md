@@ -8,7 +8,6 @@ Dependencies:
 - ModuleManager (obviously)
 Recommended:
 - [Outer Planets Mod](https://forum.kerbalspaceprogram.com/topic/184789-131-112x-outer-planets-mod-v2210-3rd-jan-2022/) - adds things beyond Jool to visit, also required for OPX-JoolPlus's sister mods
-- [Janet's Minor Planets](https://forum.kerbalspaceprogram.com/topic/203903-112-kopernicus-janets-minor-planets-134/) - made by my friend and recurring collaborator, Interplanet Janet, and adds (among other things) two Joolian trojans which fit into the artistic style of this mod very well.
 - [Cloverdove's JoolRevamp](https://spacedock.info/mod/2823/Jool%20Retexture)
 Compatible:
 - Distant Object Enhancement - full compatibility supported, with colors coded in for each new object.
@@ -23,3 +22,4 @@ List of changes:
 - Klip, an analog for Callisto is added, its battered surface covered in a total of nineteen biomes to explore. Klip was designed to offer a fun challenge for rover enjoyers.
 - Bop is substantially smaller, and now orbits as a trojan moon of Klip. Now its easier to visit, resulting it it actually being visited ever.
 - Pol is much, much more distant, at a position akin to the outer minor moon of Themisto. I could have put it farther out but I want people to visit the thing without it being hopelessly destabilized.
+- Jimel, a new outer moon
